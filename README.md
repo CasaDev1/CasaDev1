@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadir Ait Chitt</h1>
-<h3 align="center">A passionate Software Developer from The Netherlands</h3>
+<h3 align="center">A student Software Developer from The Netherlands</h3>
 
 <img align="right" alt="coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
